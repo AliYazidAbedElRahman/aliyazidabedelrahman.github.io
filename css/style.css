@@ -1,0 +1,52 @@
+body{
+  background-color: #eaf6f6;
+}
+
+td {
+    border: none;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+a{
+  color: #00a1ab;
+}
+
+#alitable td{
+  padding: 10px;
+}
+
+#alitable {
+  border-spacing: 0;
+}
+
+.tdright{
+  border-right: 1px solid #000;
+}
+
+#titleline td{
+  border-bottom: 1px solid #000;
+}
+
+#alitable tr:hover {
+  background-color: #66bfbf;
+}
+
+h1{
+  color: #00a1ab;
+}
+
+h3{
+  color: #66bfbf;
+}
+
+.Aliprofile{   /*the img profile  */
+  border-radius: 20%;
+}
